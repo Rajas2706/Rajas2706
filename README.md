@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajas</h1>
 <h3 align="center">A passionate 3rd year b.tech student from IIT JODHPUR.</h3>
-<img align="right" alt="programming" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="programming" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **Resume Analyzer**
 
