@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Rajas2706/Rajas2706/blob/main/Orange%20and%20Brown%20Ripped%20Paper%20Podcast%20Youtube%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rajas</h1>
 <h3 align="center">A passionate 3rd year b.tech student from IIT JODHPUR.</h3>
 <img align="right" alt="programming" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
