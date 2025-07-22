@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajas</h1>
 <h3 align="center">A passionate 3rd year b.tech student from IIT JODHPUR.</h3>
-<img align="right" alt="programming" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw0KhXsI-VT2ShJKeufIWLta&ust=1753261799256000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJixkryP0I4DFQAAAAAdAAAAABAE">
+<img align="right" alt="programming" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **Resume Analyzer**
 
